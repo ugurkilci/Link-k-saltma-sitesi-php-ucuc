@@ -1,0 +1,17 @@
+veri tabaný(adresler, !reklamlar)
+Reklam veri tabýný izleyicilerin yapmasý gerek.
+
+?l=id
+id, veri tabanýndan aranýp "gidilecek adresi" "header" içinde yazacaðýz. Ve otomatik olarak yönlenecek. 
+Girilen adrese +1 hit gelecek. (uðraþýlmasý gerek!)
+
+//FARK NE?
+Biz 5 saniye bekletip sonra otomatik yönlendireceðiz. O 5 saniyelik zaman dilimine bir site reklamý koyacaðýz.
+
+// Dosyalar
+vt(
+	id/adres/hit
+)
+ayar.php
+index.php > ekle
+sayfa.php
