@@ -1,26 +1,25 @@
 <!--
-	Bir Uður KILCI ürünüdür. Telif Hakký 2016
+	Bir UÃ°ur KILCI Ã¼rÃ¼nÃ¼dÃ¼r. Telif HakkÃ½ 2016
 	
-	www.youtube.com/dusunenadamugur
-	www.facebook.com/dusunuveringari
+	www.youtube.com/ugurkilci
 	www.twitter.com/ugur2nd
-	www.ugurklc.blogspot.com
+	ugurkilci.com
 	
 -->
 <?php include("ayar.php");?>
 <html>
 	<head>
-		<!-- Baþlýk baþla-->
+		<!-- BaÃ¾lÃ½k baÃ¾la-->
 		<title>U&ccedil; U&ccedil;</title>
-		<!-- Baþlýk bitir-->
+		<!-- BaÃ¾lÃ½k bitir-->
 		
-		<!-- Css baþla-->
+		<!-- Css baÃ¾la-->
 		<link rel="stylesheet" href="css/bootstrap.css"/>
 		<link rel="stylesheet" href="css/bootstrap-theme.css"/>
 		<link rel="stylesheet" href="css/genel.css"/>
 		<!-- Css bitir-->
 		
-		<!-- Meta baþla-->
+		<!-- Meta baÃ¾la-->
 		<meta charset="utf8"/>
 		<!-- Meta bitir-->
 	</head>
